@@ -13,7 +13,7 @@ Kod satirlari islemlerin adim adim anlasilabilir olmasi ve tekrardan kullanicini
 
 # Opsiyonlar
 `addon.js` 16. satirda Rank tanimlamalari mevcuttur. Gerekli bilgilendirme ayrica kod uzerinde yapildi.
-`addon.js` 30. satirda JSON dosyalarina DNA bilgisi ekleyip eklememeyi secebilirsiniz. Eklemek icin true, eklememek icin false
+`addon.js` 30. satirda JSON dosyalarina DNA bilgisi ekleyip eklememeyi secebilirsiniz. Eklemek icin true, eklememek icin false. Ayni satirin altinda `edition` ve `date` opsiyonlarida mevcut
 
 # Eklemeler
 `src/main.js`
