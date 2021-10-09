@@ -1,5 +1,5 @@
 # Kullanim
-config.js'de uretmek istediginiz gorsel adedini degistirdikten sonra index.js dosyasini calistirin
+`config.js`'de uretmek istediginiz gorsel adedini degistirdikten sonra `index.js` dosyasini calistirin
 ```bash
 node index.js
 ```
